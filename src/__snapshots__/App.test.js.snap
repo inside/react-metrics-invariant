@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the snapshot without crashing 1 1`] = `
+<App
+  _metricsConfig={
+    Object {
+      "attributePrefix": undefined,
+      "autoTrackPageView": true,
+      "findNewRouteComponent": [Function],
+      "getNewRouteState": [Function],
+      "suppressTrackBindingWarning": false,
+      "useTrackBinding": true,
+    }
+  }
+  metrics={
+    Object {
+      "pageView": [Function],
+      "track": [Function],
+    }
+  }
+/>
+`;

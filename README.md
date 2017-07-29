@@ -7,7 +7,7 @@ $ yarn
 $ yarn test
 ```
 
-It should raise this error:
+Then press 'a' to trigger a test run, it should raise this error:
 
 ```
 Invariant Violation: `metrics` should only be added once to the root level component. You have added to both App and App.
